@@ -1,7 +1,7 @@
 # GulpQuickstart
 Gulp js for CSS HTML JavaScript minify task and ftp upload task with authorization
 
-### init Nodejs
+### Initial Nodejs
 		
 		... from within our project folder
 		$ npm init (Optional)
